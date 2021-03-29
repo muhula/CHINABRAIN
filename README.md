@@ -1,2 +1,2 @@
-# CHINABRAIN
-脳を再現したい。
+# ArduinoLearning
+Arduinoでニューラルネットワークを作れたら良いなぁと思ったので。
