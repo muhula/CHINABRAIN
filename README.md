@@ -1,2 +1,2 @@
-# ArduinoLearning
-Arduinoでニューラルネットワークを作れたら良いなぁと思ったので。
+# CPUlearning
+GPU高くね？CPUでディープラーニング出来たらいいよね？
